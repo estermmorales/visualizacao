@@ -1,0 +1,107 @@
+source,target
+Empreendedorismo,Informática na Educação
+Empreendedorismo,Algoritmos e Programação
+Empreendedorismo,Fundamentos Matemáticos para Computação
+Empreendedorismo,Introdução às Tecnologias da Informação e Comunicação
+Empreendedorismo,Elaboração de Trabalhos Acadêmicos
+Informática na Educação,Algoritmos e Programação
+Informática na Educação,Fundamentos Matemáticos para Computação
+Informática na Educação,Introdução às Tecnologias da Informação e Comunicação
+Informática na Educação,Elaboração de Trabalhos Acadêmicos
+Algoritmos e Programação,Fundamentos Matemáticos para Computação
+Algoritmos e Programação,Introdução às Tecnologias da Informação e Comunicação
+Algoritmos e Programação,Elaboração de Trabalhos Acadêmicos
+Fundamentos Matemáticos para Computação,Introdução às Tecnologias da Informação e Comunicação
+Fundamentos Matemáticos para Computação,Elaboração de Trabalhos Acadêmicos
+Introdução às Tecnologias da Informação e Comunicação,Elaboração de Trabalhos Acadêmicos
+Gestão Estratégica Orientada ao Mercado,Educação à Distância
+Gestão Estratégica Orientada ao Mercado,Programação em Computadores
+Gestão Estratégica Orientada ao Mercado,Redes de Computadores I
+Gestão Estratégica Orientada ao Mercado,Estrutura de Computadores
+Gestão Estratégica Orientada ao Mercado,Sistemas Multimídias
+Educação à Distância,Programação em Computadores
+Educação à Distância,Redes de Computadores I
+Educação à Distância,Estrutura de Computadores
+Educação à Distância,Sistemas Multimídias
+Programação em Computadores,Redes de Computadores I
+Programação em Computadores,Estrutura de Computadores
+Programação em Computadores,Sistemas Multimídias
+Redes de Computadores I,Estrutura de Computadores
+Redes de Computadores I,Sistemas Multimídias
+Estrutura de Computadores,Sistemas Multimídias
+Gestão de Marketing,Ambientes Virtuais de Ensino e Aprendizagem
+Gestão de Marketing,Engenharia de Software I
+Gestão de Marketing,Estrutura de Dados e Algoritmos
+Gestão de Marketing,Redes de Computadores II
+Gestão de Marketing,Gestão de Capital Intelectual
+Ambientes Virtuais de Ensino e Aprendizagem,Engenharia de Software I
+Ambientes Virtuais de Ensino e Aprendizagem,Estrutura de Dados e Algoritmos
+Ambientes Virtuais de Ensino e Aprendizagem,Redes de Computadores II
+Ambientes Virtuais de Ensino e Aprendizagem,Gestão de Capital Intelectual
+Engenharia de Software I,Estrutura de Dados e Algoritmos
+Engenharia de Software I,Redes de Computadores II
+Engenharia de Software I,Gestão de Capital Intelectual
+Estrutura de Dados e Algoritmos,Redes de Computadores II
+Estrutura de Dados e Algoritmos,Gestão de Capital Intelectual
+Redes de Computadores II,Gestão de Capital Intelectual
+Análise da Viabilidade Econômica de Novos Empreendimentos,Gestão de Projetos I
+Análise da Viabilidade Econômica de Novos Empreendimentos,Engenharia de Software II
+Análise da Viabilidade Econômica de Novos Empreendimentos,Banco de Dados
+Análise da Viabilidade Econômica de Novos Empreendimentos,Sistemas Operacionais
+Análise da Viabilidade Econômica de Novos Empreendimentos,Visualização de Dados
+Gestão de Projetos I,Engenharia de Software II
+Gestão de Projetos I,Banco de Dados
+Gestão de Projetos I,Sistemas Operacionais
+Gestão de Projetos I,Visualização de Dados
+Engenharia de Software II,Banco de Dados
+Engenharia de Software II,Sistemas Operacionais
+Engenharia de Software II,Visualização de Dados
+Banco de Dados,Sistemas Operacionais
+Banco de Dados,Visualização de Dados
+Sistemas Operacionais,Visualização de Dados
+Projeto Integrador em Tecnologias de Informação e Comunicação I,Gestão de Projetos II
+Projeto Integrador em Tecnologias de Informação e Comunicação I,Interface Humano-Computador
+Projeto Integrador em Tecnologias de Informação e Comunicação I,Inteligência Artificial
+Projeto Integrador em Tecnologias de Informação e Comunicação I,Desenvolvimento de Sistemas Web
+Projeto Integrador em Tecnologias de Informação e Comunicação I,Redes Sociais e Virtuais
+Gestão de Projetos II,Interface Humano-Computador
+Gestão de Projetos II,Inteligência Artificial
+Gestão de Projetos II,Desenvolvimento de Sistemas Web
+Gestão de Projetos II,Redes Sociais e Virtuais
+Interface Humano-Computador,Inteligência Artificial
+Interface Humano-Computador,Desenvolvimento de Sistemas Web
+Interface Humano-Computador,Redes Sociais e Virtuais
+Inteligência Artificial,Desenvolvimento de Sistemas Web
+Inteligência Artificial,Redes Sociais e Virtuais
+Desenvolvimento de Sistemas Web,Redes Sociais e Virtuais
+Projeto Integrador em Tecnologias de Informação e Comunicação II,Plano de Negócios
+Projeto Integrador em Tecnologias de Informação e Comunicação II,Gestão de Tecnologia
+Projeto Integrador em Tecnologias de Informação e Comunicação II,"Ciência, Tecnologia e Sociedade"
+Plano de Negócios,Gestão de Tecnologia
+Plano de Negócios,"Ciência, Tecnologia e Sociedade"
+Gestão de Tecnologia,"Ciência, Tecnologia e Sociedade"
+Empreendedorismo,Gestão Estratégica Orientada ao Mercado
+Empreendedorismo,Análise da Viabilidade Econômica de Novos Empreendimentos
+Gestão Estratégica Orientada ao Mercado,Gestão de Marketing
+Gestão Estratégica Orientada ao Mercado,Gestão de Tecnologia
+Informática na Educação,Educação à Distância
+Educação à Distância,Ambientes Virtuais de Ensino e Aprendizagem
+Gestão de Projetos I,Gestão de Projetos II
+Gestão de Projetos I,Projeto Integrador em Tecnologias de Informação e Comunicação I
+Gestão de Projetos II,Plano de Negócios
+Projeto Integrador em Tecnologias de Informação e Comunicação I,Projeto Integrador em Tecnologias de Informação e Comunicação II
+Algoritmos e Programação,Programação em Computadores
+Programação em Computadores,Engenharia de Software I
+Programação em Computadores,Estrutura de Dados e Algoritmos
+Engenharia de Software I,Engenharia de Software II
+Engenharia de Software I,Interface Humano-Computador
+Fundamentos Matemáticos para Computação,Redes de Computadores I
+Fundamentos Matemáticos para Computação,Inteligência Artificial
+Redes de Computadores I,Redes de Computadores II
+Estrutura de Dados e Algoritmos,Banco de Dados
+Estrutura de Dados e Algoritmos,Visualização de Dados
+Estrutura de Dados e Algoritmos,Inteligência Artificial
+Banco de Dados,Desenvolvimento de Sistemas Web
+Introdução às Tecnologias da Informação e Comunicação,Estrutura de Computadores
+Estrutura de Computadores,Sistemas Operacionais
+Sistemas Multimídias,Visualização de Dados
